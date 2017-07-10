@@ -1,0 +1,3 @@
+[submodule "Hardware/Libs/Sparkfun-Libraries-Diptrace"]
+	path = Hardware/Libs/Sparkfun-Libraries-Diptrace
+	url = https://github.com/tx0rx0/Sparkfun-Libraries-Diptrace.git
